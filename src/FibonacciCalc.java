@@ -20,6 +20,6 @@ public class FibonacciCalc {
     }
 
     public static void main(String[] args) {
-        fibonacci(100000);
+        fibonacci(100);
     }
 }
